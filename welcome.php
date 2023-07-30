@@ -67,6 +67,9 @@
 			<td>password :</td>
 			<td>$u_password</td>
 		</tr>
+		<tr>
+			<td colspan='2' align='center'><a href='welcome.php' decoration='none'><button>cancle</button></a></td>
+		</tr>
 	</table>";
 	}
 	?>
